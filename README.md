@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Multi Bible Compare](https://github.com/CristopherPaiz/multi-bible-compare)
 
-- 👨‍💻 All of my projects are available at [https:/crpaiz.netlify.app](https:/crpaiz.netlify.app)
+- 👨‍💻 All of my projects are available at [https://crpaiz.netlify.app](https://crpaiz.netlify.app)
 
 - 📝 I regularly write articles on [https://crpaiz.netlify.app](https://crpaiz.netlify.app)
 
