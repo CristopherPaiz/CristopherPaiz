@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https:/crpaiz.netlify.app](https:/crpaiz.netlify.app)
 
-- 📝 I regularly write articles on [https:/crpaiz.netlify.app](https:/crpaiz.netlify.app)
+- 📝 I regularly write articles on [https://crpaiz.netlify.app](https://crpaiz.netlify.app)
 
 - 💬 Ask me about **react, react native**
 
 - 📫 How to reach me **choperpaiz1@gmail.com**
 
-- 📄 Know about my experiences [https:/crpaiz.netlify.app](https:/crpaiz.netlify.app)
+- 📄 Know about my experiences [https://crpaiz.netlify.app](https://crpaiz.netlify.app)
 
 - ⚡ Fun fact **I think i am funny and good dev**
 
